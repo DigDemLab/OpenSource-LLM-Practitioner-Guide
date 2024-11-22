@@ -8,6 +8,7 @@ src/FLAN/wandb/*
 src/LLAMA/__pycache__
 src/FLAN/__pycache__
 src/LLAMA/hf_token.txt
+src/MISTRAL/hf_token.txt
 .DS_Store
 src/.DS_Store
 .DS_Store
@@ -15,3 +16,8 @@ src/cache/*
 src/LLAMA/wandb/*
 src/chatGPT/wandb*
 src/chatGPT/OpenAI_key.txt
+dataset_task_mappings.csv
+src/LLAMA/accuracies_*
+src/LLAMA/02-measure_performance_Llama copy.ipynb
+src/LLAMA/02-measure_performance_Llama.ipynb
+src/LLAMA/02-measure_performance_Llama.ipynb
